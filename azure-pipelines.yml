@@ -12,7 +12,7 @@ variables:
   azureSubscription: '5e0bcae1-38e9-4e83-a6a7-e5ec70816921'
   
   # Web app name
-  webAppName: 'Dohoney-Java-Demo'
+  webAppName: 'dohoney-java'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
